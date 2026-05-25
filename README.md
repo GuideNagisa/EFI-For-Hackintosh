@@ -1,4 +1,4 @@
-# Intel Core i7 6700 + IGPU Intel HD 530 (Skylake) Fix IGPU 7MB to 1536 MB
+# Intel Core i3,i5,i7 6xxx + IGPU Intel HD 5xx (Skylake) Fix IGPU 7MB to 1536 MB
 
 <img width="753" height="501" alt="Screen Shot 2569-05-21 at 00 11 49" src="https://github.com/user-attachments/assets/a609d327-20e5-4626-b43d-5a4c23d62594" />
 
